@@ -1,0 +1,107 @@
+{
+  "main": {
+    "name": "Ayush Kapadia",
+    "description": "I am student at DRB Collage, But I Learned Web Development",
+    "image": "m.jpg",
+    "bio": "I am actual a Bcom Student, But I am intrested in web development and love to learn more about ReactJs and many other things.",
+    "email": "ayushkapadia619@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "New City Light",
+      "city": "Surat",
+      "state": "Gujarat",
+      "zip": "395007"
+    },
+    "website": "http://www.ayushkapadia.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/AyushKapadia7",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ayush-kapadia-4083a420b",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ayush_kapadia",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/AyushKapadia7",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "St Thomas School",
+        "degree": "Secondary School Certificate",
+        "graduated": "March 2017",
+        "description": "Leared About making Website using an app."
+      },
+      {
+        "school": "St Thomas School",
+        "degree": "Higher Secondary Certificate",
+        "graduated": "March 2020",
+        "description": "Got to know About C++."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Keepers App",
+        "category": "App we can write our notes",
+        "image": "keepersapp.png",
+        "url": "https://angry-euler-21410d.netlify.app/"
+      },
+      {
+        "title": "Simon game",
+        "category": "A Small Game",
+        "image": "simon.png",
+        "url": "https://musing-curran-afc5a8.netlify.app/"
+      }
+    
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking.",
+        "user": "Steve Jobs"
+      },
+      {
+        "text": "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere." ,
+        "user": "Barack Obama"
+      }
+    ]
+  }
+}
